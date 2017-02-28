@@ -1,16 +1,29 @@
 body{
-  background: pink;
+  background: #0064ff;
   color: white;
 }
 h1{
-  background: blue;
-  width: 25%
+  background: orange;
+  width: 33%;
+  padding: 10px;
+  border-radius: 30px;
+  font-family: 'Courier', monospace;
 }
-h2{
+.no{
   background: red;
   color: black;
-  width: 31%
+  width: 31%;
+  border-radius: 45px;
+  padding: 10px;
 }
-h3{
-  rgb(255,100,100);
+
+.yes:hover{
+  background: white;
+  color: black;
+  padding: 100px;
+  border-radius: 100px;
+}
+
+.yes{
+  margin: 30px;
 }
