@@ -1,2 +1,9 @@
-# About Me
-<!-- Your work here! -->
+# Me and my Family
+###### A brief family tree
+I am a quarter American, a quarter Mexican, a quarter French, and a quarter of various other races. I get the Mexican and French from my mom, as well as some of the other, less prominent, nationalities. My mom is Mexican, and her grandfather was French. My dad was born in America, as was I, but I don't know much more about my dad's history.
+###### Direct family
+Of my direct family (mother, father, siblings), I have my mom, dad, and half-brother. My mom's name is Monica, my dad's is Jeremy, and my brother's is Andrew. One thing that I found interesting is that both my father's and brother's middle and last names are Michael Moore, so Andrew Michael Moore and Jeremey Michael Moore. There are three reasons that I rarely see my brother: We are related on our dad's side, I live alone with my mom, and he lives about two hours away. Because of these things, we have to arrange a meeting point between his mom or stepdad and our dad, which only works out half the time because other things come up. Finally, though, he turned 18 and will be able to drive himself down, so I will get to see him more.
+###### Extended family
+From what I know, I have 4 aunts and 5 uncles, just on my mom's side. On my dad's side I have one of each. My mom's mom is alive, but is very old. My dad's dad (Mom's mom, dad's dad. Coincidence? Yeah, I'm pretty sure it's a coincidence.) is also alive, and  kind of old, but is very sick. My grandpa and I talk every Friday, but it is harder to set up a schedule with my grandma because she lives in Mexico and is also very sick.
+###### Major Interests
+Some of my various interests are Magic: The Gathering, a multitude of series' and individual books, and, as is common with this era, video games. However, there are very few games that I like. I don't like FPSs (first person shooters) or RPGs (role playing games). Instead, I prefer games that gradually get harder, keep you continuously interested, or are sandbox, such as Minecraft and Roblox.
